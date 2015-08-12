@@ -1,0 +1,19 @@
+{
+  "name": "css-report",
+  "version": "0.0.0",
+  "authors": [
+    "Jonathan Skeate <skeate@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lightrouter": "~0.3.3",
+    "blueimp-tmpl": "~2.5.5"
+  }
+}

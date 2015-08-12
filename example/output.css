@@ -1,0 +1,14 @@
+.extra #stuff {
+  color: beige; }
+  .extra #stuff .foo body > h2 {
+    color: white; }
+
+body {
+  background-image: url(bg.png);
+  background: black; }
+
+div #notes {
+  font-family: 'Open Sans';
+  color: #accede; }
+
+/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJImZpbGUiOiAib3V0cHV0LmNzcyIsCgkic291cmNlcyI6IFsKCQkidGVzdC5zY3NzIiwKCQkiX2V4dHJhLnNjc3MiCgldLAoJInNvdXJjZXNDb250ZW50IjogW10sCgkibWFwcGluZ3MiOiAiQUNBTyxNQUFNLENBQUMsTUFBTSxDQUFOO0VBSVosS0FBSyxFQUFFLEtBQU0sR0FKQTtFQUNELE1BQU0sQ0FBQyxNQUFNLENBQUMsSUFBSSxDQUFDLElBQUksR0FBRyxFQUFFLENBQXpCO0lBQ2IsS0FBSyxFQUFFLEtBQU0sR0FEQzs7QURDbEIsSUFBSSxDQUFDO0VBQ0gsZ0JBQWdCLEVBQUUsV0FBRztFQUNyQixVQUFVLEVBQUUsS0FBTSxHQUZkOztBQUtGLEdBQUcsQ0FBQyxNQUFNLENBQUg7RUFDVCxXQUFXLEVBQUUsV0FBWTtFQUN6QixLQUFLLEVBQUUsT0FBUSxHQUZMIiwKCSJuYW1lcyI6IFtdCn0= */

@@ -1,0 +1,179 @@
+nav {
+  width: 20%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#code-section {
+  width: 60%;
+  position: fixed;
+  left: 20%;
+  top: 0;
+  bottom: 0;
+}
+
+#stats {
+  width: 20%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.base64Length {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.redundantBodySelectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.redundantChildNodesSelectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.colors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.comments {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.commentsLength {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.complexSelectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.complexSelectorsByAttribute {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.duplicatedSelectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.duplicatedProperties {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.emptyRules {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.expressions {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.oldIEFixes {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.imports {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.importants {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.mediaQueries {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.multiClassesSelectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.parsingErrors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.oldPropertyPrefixes {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.propertyResets {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.qualifiedSelectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.specificityIdAvg {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.specificityIdTotal {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.specificityClassAvg {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.specificityClassTotal {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.specificityTagAvg {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.specificityTagTotal {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.selectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.selectorLengthAvg {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.selectorsByAttribute {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.selectorsByClass {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.selectorsById {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.selectorsByPseudo {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.selectorsByTag {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.universalSelectors {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.length {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.rules {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.declarations {
+  background-color: rgba(0, 0, 0, .5);
+}
